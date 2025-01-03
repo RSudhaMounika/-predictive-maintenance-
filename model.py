@@ -63,4 +63,4 @@ print("Accuracy:", accuracy_vc)
 
 plt.figure(figsize=(25, 10))  
 plot_tree(tree_classifier, feature_names=X.columns, class_names=['0', '1', '2', '3', '4', '5'], filled=True, rounded=True)
-plt.savefig('C:\\Users\\Aadya Dewangan\\Desktop\\pred_model\decision_tree_plot.png')  
+plt.savefig('C:\\Users\\Sudha Mounika\\Desktop\\pred_model\decision_tree_plot.png')  
